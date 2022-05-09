@@ -28,7 +28,7 @@ twitter_username: rivethead_
 github_username:  rivethead
 
 # Build settings
-theme: jekyll-theme-so-simple
+theme: minima
 plugins:
   - jekyll-feed
 
